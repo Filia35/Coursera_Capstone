@@ -8,7 +8,6 @@
 
 In recent years, the number of pubs in Russia (especially in the Central region) has increased dramatically. Some attribute this not so much to British exoticism, but to the increasing culture of beer consumption in the country and the desire to abandon the low-quality product that is offered by a mass producer.
 <br>In this study, I want to analyze and determine the **optimal places for the location of an Irish pub in Moscow**.</br>
-<br></br>
 <br>**Moscow** is the capital and largest city of Russia. Moscow is among the world's largest cities, being the most populous city entirely within Europe, so owners can easily find potential customers here. </br>
 <br>Moscow is divided into twelve administrative okrugs and 123 districts. </br>
 <br> In this city, there are people who are happy to go to the pub to have a beer with friends and relax after a hard working week, or just to have a good time together.</br>
@@ -17,7 +16,6 @@ In recent years, the number of pubs in Russia (especially in the Central region)
 
 **The owners of the pubs**  who are the target audience of this study often face the need to expand an existing pub chain or launch a completely new pub.
 <br>It is obvious that the owners of pubs are interested in making their establishment bring a noticeable income. To do this, they should choose cities where there are people interested in opening a pub, and there is also a great area (preferably with low competition) where they can open a pub.</br>
-<br></br>
 <br> This study aims to help owners choose the best pub location based on the following data:</br> 
 * population density; 
 * location of competitors (other pubs, restaurants, and cafes).
